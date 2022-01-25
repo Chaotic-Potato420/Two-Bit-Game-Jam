@@ -8,3 +8,4 @@ Gameplay
   User chooses patient and then minigame, the points go to that patient
 RNG of the patients "sleep score"
   Randomise the "sleep score" and associate a "progress bar" with that score
+  When a patient gets to a certain point, change everything to black and white but change the color of the specific patient to one color
